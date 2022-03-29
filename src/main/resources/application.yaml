@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+field:
+  length: 10
+  width: 10
